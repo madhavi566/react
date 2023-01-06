@@ -1,6 +1,7 @@
 
-#  https://github.com/madhavi566/react/tree/session_two/Igniting_parcel
-# Session 2: Theory
+#  https://github.com/madhavi566/react/tree/session_three
+
+# Session 3: Theory
 
 
 # A bundler is a tool which puts all your js code and dependencies and throws new javascript file 
