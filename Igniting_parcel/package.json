@@ -1,0 +1,32 @@
+{
+  "name": "igniting_parcel",
+  "version": "1.0.0",
+  "description": "Session 2 : Igniting the app",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Madhavi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madhavi566/react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/madhavi566/react/issues"
+  },
+  "homepage": "https://github.com/madhavi566/react#readme",
+  "dependencies": {
+    "parcel": "^2.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browserList":[
+    "last 2 versions"
+  ]
+}
