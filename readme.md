@@ -1,4 +1,4 @@
-https://github.com/madhavi566/react
+session 1 : https://github.com/madhavi566/react
 
 Emmet : set of plugins used for the text editors which provides you the basic code structure 
 
