@@ -1,5 +1,5 @@
 
-#  https://github.com/madhavi566/react/tree/session_three
+#  https://github.com/madhavi566/react/tree/session_three/Igniting_parcel
 
 # Session 3: Theory
 What is JSX :
