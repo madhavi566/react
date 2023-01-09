@@ -10,7 +10,9 @@ background-color: greenyellow;
     text-decoration: solid;
     text-shadow: rgb(201, 196, 205);
 }
-.header {
-/* float: right; */
-/* overflow-x:auto; */
+
+.header{
+display: flex;
+justify-content: space-between;
+margin: 1opx;
 }

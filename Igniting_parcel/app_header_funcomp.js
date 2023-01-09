@@ -3,22 +3,23 @@ import ReactDom from "react-dom/client";
 // import header1Logo from './images';
 
 const Logoleft = () => (
-    <div>
-    <img src='https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png' alt="logo on left"></img>
+    <div className="logoleft">
+    <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkML6BRWil3kliTdFT-6LYBEeRsnkd_hmMNAowM3oalP-VbwLnT7vvG70rlP2_gcxbd0&usqp=CAU' className= "" alt="logo on left"></img>
     </div>
 )
 
 
 const SearchMid = () => (
-    <div>
-    <img src='https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png' alt="logo on left"></img>
+    <div className="search-icon">
+        <input type="text"/>
+        <button>Search </button> 
     </div>
 )
 
 
 const UserIcon =  (
     <div>
-    <img src='https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png' alt="logo on left"></img>
+    <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWm7kgMH1PEsycRwkyqPcPB1b2NITpD8j2g&usqp=CAU' alt="UserIcon "></img>
     </div>
 )
 
